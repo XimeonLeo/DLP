@@ -92,7 +92,8 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 ## More Info
 ### Execution
 Your shell should work like this in interactive mode:
-```$ ./console.py
+```
+$ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -105,7 +106,8 @@ EOF  help  quit
 $
 ```
 But also in non-interactive mode: (like the Shell project in C)
-```$ echo "help" | ./console.py
+```
+$ echo "help" | ./console.py
 (hbnb)
 
 Documented commands (type help <topic>):
