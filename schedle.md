@@ -1,6 +1,6 @@
 # C-13 PLD
 
->
+
 > ### TOPIC:
 > ```
 >	0x00. AirBnB clone - The console
@@ -21,10 +21,10 @@
 > ```
 >
 > Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_0.md).
->
 
 
->
+
+
 > ### TOPIC:
 > ```
 >	0x00. AirBnB clone - The console
@@ -45,4 +45,3 @@
 > ```
 >
 > Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_0.md).
->
