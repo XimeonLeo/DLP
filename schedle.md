@@ -8,16 +8,16 @@
 >
 > ### DATE:
 > ```
->	SATURDAY 22ND of JULY, 2023*
+>	WEDNESDAY 9TH of AUGUST, 2023
 > ```
 > ### RESOURCE PERSON:
 >
 > ### TIME:
 > ```
->   7:30 PM GMT
->   8:30 PM WAT
->   9:30 PM CAT
->   10:30 PM EAT
+>   6:00 PM GMT
+>   7:00 PM WAT
+>   8:00 PM CAT
+>   9:00 PM EAT
 > ```
 >
 > Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_0.md).
@@ -27,21 +27,22 @@
 
 > ### TOPIC:
 > ```
->	0x00. AirBnB clone - The console
+>	0x00. Fix my code
 > ```
 >
 > ### DATE:
 > ```
->	SATURDAY 22ND of JULY, 2023*
+>	WEDNESDAY 16TH OF AUGUST, 2023
 > ```
 > ### RESOURCE PERSON:
 >
 > ### TIME:
 > ```
->   7:30 PM GMT
->   8:30 PM WAT
->   9:30 PM CAT
->   10:30 PM EAT
+>   6:00 PM GMT
+>   7:00 PM WAT
+>   8:00 PM CAT
+>   9:00 PM EAT
+>
 > ```
 >
-> Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_0.md).
+> Find the necessary resources [here]().
