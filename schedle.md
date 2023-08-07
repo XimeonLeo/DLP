@@ -1,4 +1,4 @@
-# C-13 PLD
+# CodeTrybe C-13 PLD
 
 
 > ### TOPIC:
@@ -114,4 +114,4 @@
 >
 > ```
 >
-> Resources will be realesed soon.
+> Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_1.md).
