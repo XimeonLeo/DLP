@@ -1,28 +1,6 @@
 # CodeTrybe C-13 PLD
 
 
-> ### TOPIC:
-> ```
->	0x00. AirBnB clone - The console
-> ```
->
-> ### DATE:
-> ```
->	WEDNESDAY 9TH of AUGUST, 2023
-> ```
-> ### RESOURCE PERSON:
->	`XL`
->
-> ### TIME:
-> ```
->   2:30 PM GMT
->   3:30 PM WAT
->   4:30 PM CAT
->   5:30 PM EAT
-> ```
->
-> Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_0.md).
-
 
 > ### TOPIC:
 > ```
@@ -100,7 +78,7 @@
 >
 > ### DATE:
 > ```
->	WEDNESDAY 16TH OF AUGUST, 2023
+>	WEDNESDAY 15TH OF AUGUST, 2023
 > ```
 > ### RESOURCE PERSON:
 >	`Whyte`
@@ -115,3 +93,25 @@
 > ```
 >
 > Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_1.md).
+
+> ### TOPIC:
+> ```
+>	0x0D. SQL - Introduction
+> ```
+>
+> ### DATE:
+> ```
+>	WEDNESDAY 16TH of AUGUST, 2023
+> ```
+> ### RESOURCE PERSON:
+>	`Promise Nwhator`
+>
+> ### TIME:
+> ```
+>   6:00 PM GMT
+>   7:00 PM WAT
+>   8:00 PM CAT
+>   9:00 PM EAT
+> ```
+>
+> Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_2.md).
