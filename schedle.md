@@ -115,3 +115,26 @@
 > ```
 >
 > Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_2.md).
+
+
+> ### TOPIC:
+> ```
+>	0x0E. SQL - More queries
+> ```
+>
+> ### DATE:
+> ```
+>	WEDNESDAY 17TH of AUGUST, 2023
+> ```
+> ### RESOURCE PERSON:
+>	`Umlamulankunzi`
+>
+> ### TIME:
+> ```
+>   6:00 PM GMT
+>   7:00 PM WAT
+>   8:00 PM CAT
+>   9:00 PM EAT
+> ```
+>
+> Find the necessary resources [here](https://github.com/XimeonLeo/DLP/blob/main/Test_3.md).
