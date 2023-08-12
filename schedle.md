@@ -78,7 +78,7 @@
 >
 > ### DATE:
 > ```
->	WEDNESDAY 15TH OF AUGUST, 2023
+>	TUESDAY 15TH OF AUGUST, 2023
 > ```
 > ### RESOURCE PERSON:
 >	`Whyte`
@@ -124,7 +124,7 @@
 >
 > ### DATE:
 > ```
->	WEDNESDAY 17TH of AUGUST, 2023
+>	THURSDAY 17TH of AUGUST, 2023
 > ```
 > ### RESOURCE PERSON:
 >	`Umlamulankunzi`
