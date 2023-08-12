@@ -9,7 +9,7 @@
 >
 > ### DATE:
 > ```
->	THURSDAY 17TH OF AUGUST, 2023
+>	THURSDAY 18TH OF AUGUST, 2023
 > ```
 > ### RESOURCE PERSON:
 >	`Chinonso Morba`
